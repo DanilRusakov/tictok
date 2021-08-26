@@ -1,0 +1,13 @@
+certifi==2021.5.30
+charset-normalizer==2.0.4
+greenlet==1.1.1
+idna==3.2
+playwright==1.14.1
+pyee==8.2.2
+requests==2.26.0
+selenium==3.141.0
+selenium-stealth==1.0.6
+TikTokApi==4.0.1
+typing-extensions==3.10.0.0
+urllib3==1.26.6
+websockets==9.1
