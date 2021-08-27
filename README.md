@@ -9,4 +9,4 @@ Testing application after interview
 
     `python GetTrends.py`
 
-**P.S: must have** Python version 2.7+
+**P.S: must have** Python version 3.7+
